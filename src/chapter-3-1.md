@@ -1,5 +1,3 @@
-AI-Based Procedural Content Generation
-==========================================================================
 
 Procedural content generation (PCG) is an innovative approach to game development that uses algorithms to create dynamic and unique game content. In recent years, the use of artificial intelligence (AI) has greatly expanded the possibilities of PCG in the gaming industry. In this chapter, we will explore some of the ways AI is used in PCG to create immersive and engaging gaming experiences.
 

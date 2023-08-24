@@ -1,5 +1,3 @@
-Objectives of the Book
-===============================================
 
 The gaming industry has grown exponentially in recent years, and artificial intelligence (AI) has been a key driver of this growth. From adaptive game design to dynamic difficulty adjustment, AI has enabled game developers to create more complex and engaging games than ever before.
 

@@ -1,5 +1,3 @@
-Chapter 3: AI and Game Development
-==================================
 
 Artificial intelligence (AI) has become an integral part of game development, enabling developers to create more immersive and engaging games. In this chapter, we will explore some of the ways that AI is being used in game development, including AI-based procedural content generation, AI-powered animation and graphics, and AI for non-player characters (NPCs).
 

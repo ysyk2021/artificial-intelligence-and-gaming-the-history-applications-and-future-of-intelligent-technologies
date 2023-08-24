@@ -1,5 +1,3 @@
-Natural Language Processing in Games
-========================================================================================
 
 Natural language processing (NLP) is a subfield of artificial intelligence that enables computers to understand and interpret human language. In the gaming industry, NLP can be used to create more immersive and engaging gameplay experiences. In this chapter, we explore the real-world applications of NLP in gaming.
 

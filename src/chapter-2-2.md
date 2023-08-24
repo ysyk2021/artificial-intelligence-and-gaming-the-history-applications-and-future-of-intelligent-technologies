@@ -1,5 +1,3 @@
-AI-Based Game Design
-===========================================================
 
 Artificial intelligence (AI) has greatly impacted the gaming industry, and one area where it has been particularly influential is game design. AI-based game design has enabled game developers to create more complex and engaging games than ever before. In this chapter, we will explore the impact of AI in gaming through AI-based game design.
 

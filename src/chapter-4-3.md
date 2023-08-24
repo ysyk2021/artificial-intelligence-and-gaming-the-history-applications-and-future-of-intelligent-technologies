@@ -1,5 +1,3 @@
-Computer Vision in Augmented Reality
-========================================================================================
 
 Augmented reality (AR) offers exciting new possibilities for gaming, and computer vision is a critical component of AR technology. In this chapter, we explore the real-world applications of AI and computer vision in gaming, with a focus on AR.
 

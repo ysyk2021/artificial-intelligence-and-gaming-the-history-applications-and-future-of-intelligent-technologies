@@ -1,5 +1,3 @@
-Brief History of AI in Gaming
-======================================================
 
 The use of artificial intelligence (AI) in gaming has a rich and varied history. From early games like Spacewar! to modern titles like Red Dead Redemption 2, AI has played an important role in video game development. In this chapter, we will provide a brief history of AI in gaming.
 

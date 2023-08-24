@@ -1,5 +1,3 @@
-AI-Powered Animation and Graphics
-=====================================================================
 
 Artificial intelligence (AI) has made significant contributions to the gaming industry, including the development of AI-powered animation and graphics. In this chapter, we will explore some of the ways that AI is used in game development to create immersive and dynamic gaming experiences.
 

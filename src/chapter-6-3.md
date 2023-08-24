@@ -1,5 +1,3 @@
-Collaboration between Industry and Academia
-===========================================================================================
 
 The development of artificial intelligence (AI) in gaming has created new opportunities for collaboration between industry and academia. In this chapter, we explore the future directions and opportunities for collaboration between these two worlds.
 

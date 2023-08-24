@@ -1,5 +1,3 @@
-Enhancing Player Experience
-==================================================================
 
 Artificial intelligence (AI) has had a profound impact on the gaming industry, from procedural content generation to adaptive game design. One area where AI has particularly excelled is in enhancing player experience. In this chapter, we will explore the impact of AI in gaming through its ability to enhance player experience.
 

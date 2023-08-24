@@ -1,5 +1,3 @@
-Definition of Artificial Intelligence
-==============================================================
 
 Artificial intelligence (AI) is a branch of computer science that focuses on the development of intelligent machines that can perform tasks that typically require human intelligence, such as speech recognition, decision-making, and language translation. AI is a broad field that encompasses a range of technologies, including machine learning, natural language processing, and computer vision.
 

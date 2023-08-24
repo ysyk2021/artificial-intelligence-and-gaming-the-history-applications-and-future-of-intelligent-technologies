@@ -1,5 +1,3 @@
-Addressing Concerns about AI Addiction
-==========================================================================================
 
 Artificial intelligence (AI) is transforming the gaming industry, creating more engaging and immersive gaming experiences. However, with the increased use of AI in games, concerns have arisen about the potential for players to become addicted to AI-driven games.
 

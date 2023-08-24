@@ -1,5 +1,3 @@
-AI for Non-Player Characters
-================================================================
 
 Non-player characters (NPCs) play a crucial role in creating immersive and engaging gaming experiences. They provide players with information, challenges, and opportunities for interaction. Artificial intelligence (AI) has greatly expanded the possibilities of NPC behavior and interaction in games. In this chapter, we will explore some of the ways AI is used in game development to create more dynamic and intelligent NPCs.
 

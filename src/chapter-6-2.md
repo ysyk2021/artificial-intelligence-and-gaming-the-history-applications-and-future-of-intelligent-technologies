@@ -1,5 +1,3 @@
-Role of Game Developers in Promoting AI Literacy
-================================================================================================
 
 As artificial intelligence (AI) technology continues to advance, the gaming industry has an opportunity to lead the way in promoting AI literacy and understanding among players. In this chapter, we explore the future directions and opportunities for game developers to leverage AI and educate players about its potential.
 

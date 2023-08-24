@@ -1,5 +1,3 @@
-Chapter 6: Future Directions and Opportunities
-==============================================
 
 The use of artificial intelligence (AI) in gaming is rapidly evolving, with new technologies and applications emerging all the time. In this chapter, we will explore some of the future directions and opportunities for AI in gaming.
 

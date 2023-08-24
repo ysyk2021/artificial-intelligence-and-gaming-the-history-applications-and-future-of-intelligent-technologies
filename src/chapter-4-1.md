@@ -1,5 +1,3 @@
-Chatbots and Conversational Interfaces
-==========================================================================================
 
 Chatbots and conversational interfaces are becoming increasingly popular in the gaming industry, as they allow for more dynamic and personalized interactions between players and game systems. Artificial intelligence (AI) has greatly expanded the possibilities of chatbot and conversational interface development in games. In this chapter, we will explore some of the real-world applications of AI in gaming through chatbots and conversational interfaces.
 
