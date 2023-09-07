@@ -8,3 +8,7 @@ In this book, we will explore topics such as game design, virtual reality, augme
 Whether you are a game developer, researcher, or gamer, this book offers valuable insights and perspectives on the role of AI in gaming. By exploring the history, applications, and future of AI technologies in the gaming industry, we can work towards more effective and innovative game development practices that prioritize the player experience and anticipate future trends.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
