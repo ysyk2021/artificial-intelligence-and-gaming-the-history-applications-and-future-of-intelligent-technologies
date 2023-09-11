@@ -1,5 +1,4 @@
-Chapter 8: Computer Vision in Augmented Reality
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Gaming: The History, Applications, and Future of Intelligent Technologies in the Gaming Industry," we explore the role of computer vision in augmented reality (AR). Computer vision, powered by AI and machine learning techniques, plays a crucial role in enabling immersive and interactive AR experiences.
 

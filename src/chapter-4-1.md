@@ -1,5 +1,4 @@
-Chapter 6: Chatbots and Conversational Interfaces
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Gaming: The History, Applications, and Future of Intelligent Technologies in the Gaming Industry," we explore the role of chatbots and conversational interfaces in gaming. With the increasing use of AI technologies in games, chatbots and conversational interfaces have become a popular tool for enhancing player engagement, creating immersive experiences, and improving game retention.
 

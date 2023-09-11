@@ -1,5 +1,4 @@
-Chapter 10: AI-Based Procedural Content Generation
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Gaming: The History, Applications, and Future of Intelligent Technologies in the Gaming Industry," we delve into the transformative role of AI in procedural content generation (PCG) for games. AI-powered techniques have revolutionized the creation of diverse and dynamic game content, such as levels, maps, quests, characters, and more. This chapter explores the evolution, applications, and future prospects of AI-based PCG in the gaming industry.
 

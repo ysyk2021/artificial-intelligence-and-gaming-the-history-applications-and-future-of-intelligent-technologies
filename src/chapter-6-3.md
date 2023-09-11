@@ -1,5 +1,4 @@
-Chapter 7: Collaboration Between Industry and Academia
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Gaming: The History, Applications, and Future of Intelligent Technologies in the Gaming Industry," we explore the importance of collaboration between the gaming industry and academia. By joining forces, these two sectors can drive innovation, advance research, and shape the future of intelligent technologies in gaming.
 

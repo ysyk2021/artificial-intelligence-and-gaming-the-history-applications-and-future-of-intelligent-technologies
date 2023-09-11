@@ -1,5 +1,4 @@
-Chapter 5: Role of Game Developers in Promoting AI Literacy
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Gaming: The History, Applications, and Future of Intelligent Technologies in the Gaming Industry," we explore the crucial role game developers play in promoting AI literacy among players. As AI technologies continue to evolve and become more prevalent in gaming, it is essential to educate players about AI concepts, their applications, and their impact on gameplay.
 

@@ -1,5 +1,4 @@
-Chapter 9: Natural Language Processing in Games
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Gaming: The History, Applications, and Future of Intelligent Technologies in the Gaming Industry," we explore the role of natural language processing (NLP) in games. NLP, a branch of artificial intelligence, enables games to understand and interact with players using natural language, leading to more immersive and engaging gameplay experiences.
 

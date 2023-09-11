@@ -1,5 +1,4 @@
-Chapter 11: AI-Based Game Design
-================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Gaming: The History, Applications, and Future of Intelligent Technologies in the Gaming Industry" we explore the concept of AI-based game design and its potential to revolutionize how games are created. AI-based game design involves leveraging machine learning and other AI techniques to automate and optimize various aspects of game development, from prototyping and testing to content generation and optimization.
 

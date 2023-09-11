@@ -1,5 +1,4 @@
-Chapter 12: Protecting User Data and Privacy
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Gaming: The History, Applications, and Future of Intelligent Technologies in the Gaming Industry," we delve into the critical topic of protecting user data and privacy in the context of AI and gaming. With the increasing use of AI technologies in games, it is essential to ensure that user information is safeguarded and privacy is respected at all times.
 

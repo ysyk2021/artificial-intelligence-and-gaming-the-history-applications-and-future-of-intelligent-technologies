@@ -1,5 +1,4 @@
-Chapter 9: Addressing Concerns About AI Addiction
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Gaming: The History, Applications, and Future of Intelligent Technologies in the Gaming Industry," we explore the growing concerns surrounding AI addiction in gaming. As AI technologies continue to advance, it is crucial for game developers and stakeholders to address these concerns and promote responsible usage of AI in gaming.
 

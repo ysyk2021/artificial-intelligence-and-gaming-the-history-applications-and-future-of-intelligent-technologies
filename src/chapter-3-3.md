@@ -1,5 +1,4 @@
-Chapter 8: AI for Non-Player Characters
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Gaming: The History, Applications, and Future of Intelligent Technologies in the Gaming Industry," we delve into the significant role of AI in creating realistic and immersive non-player characters (NPCs) in games. NPCs play a crucial part in shaping players' experiences, and advancements in AI technologies have greatly enhanced their abilities and behaviors. This chapter explores the evolution, applications, and future prospects of AI for NPCs.
 

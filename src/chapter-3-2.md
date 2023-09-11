@@ -1,5 +1,4 @@
-Chapter 9: AI-Powered Animation and Graphics
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Gaming: The History, Applications, and Future of Intelligent Technologies in the Gaming Industry," we explore the significant role of AI in revolutionizing animation and graphics in games. AI-powered techniques have brought unprecedented advancements in character animation, procedural generation, visual effects, and more. This chapter delves into the evolution, applications, and future prospects of AI in powering animation and graphics in the gaming industry.
 

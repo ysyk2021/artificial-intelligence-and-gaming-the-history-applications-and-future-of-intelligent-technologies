@@ -1,5 +1,4 @@
-Chapter 10: Dynamic Difficulty Adjustment
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "Artificial Intelligence and Gaming: The History, Applications, and Future of Intelligent Technologies in the Gaming Industry," we explore the concept of dynamic difficulty adjustment (DDA) and how it enhances player experience in games. DDA is an AI-powered technique that allows games to adapt their difficulty levels in real-time based on the player's performance, ensuring a balanced and engaging gameplay experience.
 
